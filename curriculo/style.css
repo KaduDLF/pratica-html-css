@@ -1,13 +1,16 @@
 body{
     font-family:sans-serif;
-
+    background-color: beige;
 }
 p{
     font-size: 13px;
 }
 .container{
     width: 75%;
-    margin:auto;    
+    margin:auto;
+    background-color: whitesmoke;
+    padding: 7px;    
+    border: 2px solid red;
 }
 .titulo{
     text-align: center;
