@@ -1,0 +1,71 @@
+body{
+    font-family:sans-serif;
+
+}
+p{
+    font-size: 13px;
+}
+.container{
+    width: 75%;
+    margin:auto;    
+}
+.titulo{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.titulo h1{
+    font-weight: bolder;
+    padding:5px;
+    color:crimson;
+    background-color: rgb(177, 177, 177);
+}
+.obj{
+    padding-bottom:5px;
+}
+.obj h1{
+    font-weight: bolder;
+    padding:5px;
+    color: brown;
+    background-color: rgb(202, 202, 202);
+    border-bottom: 3px solid brown;
+}
+.exp h1{
+    font-weight: bolder;
+    padding:5px;
+    color: brown;
+    background-color: rgb(202, 202, 202);
+    border-bottom: 3px solid brown;
+}
+.exp a{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 16px;
+    color: red;
+}
+.exp b{
+    color:rgb(61, 61, 61);
+}
+.form h1{
+    font-weight: bolder;
+    padding:5px;
+    color: brown;
+    background-color: rgb(202, 202, 202);
+    border-bottom: 3px solid brown;
+}
+.form b{
+    color:rgb(61, 61, 61);
+}
+.cursos h1{
+    font-weight: bolder;
+    padding:5px;
+    color: brown;
+    background-color: rgb(202, 202, 202);
+    border-bottom: 3px solid brown;
+}
+.cursos b{
+    color:rgb(61, 61, 61);
+}
+.curs{
+    display: inline;
+}
+
