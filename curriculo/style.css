@@ -16,23 +16,43 @@ p{
     text-align: center;
     padding-bottom: 10px;
 }
-.titulo h1{
+.titulo h2{
     font-weight: bolder;
     padding:5px;
     color:crimson;
     background-color: rgb(177, 177, 177);
 }
+.nav{
+    text-align: right;
+}
+.nav a{
+    text-decoration: none;
+    color:black;
+    transition: all 250ms ease 50ms;
+}
+.nav a:hover{
+    font-weight: bolder;
+    color:rgb(61, 61, 61);
+    padding: 10px;
+}
+.nav li{
+    padding:9px;
+    background-color: rgb(177, 177, 177);
+    display: inline-block;
+    list-style-type: none;
+}
+
 .obj{
     padding-bottom:5px;
 }
-.obj h1{
+.obj h2{
     font-weight: bolder;
     padding:5px;
     color: brown;
     background-color: rgb(202, 202, 202);
     border-bottom: 3px solid brown;
 }
-.exp h1{
+.exp h2{
     font-weight: bolder;
     padding:5px;
     color: brown;
@@ -48,7 +68,7 @@ p{
 .exp b{
     color:rgb(61, 61, 61);
 }
-.form h1{
+.form h2{
     font-weight: bolder;
     padding:5px;
     color: brown;
@@ -58,7 +78,7 @@ p{
 .form b{
     color:rgb(61, 61, 61);
 }
-.cursos h1{
+.cursos h2{
     font-weight: bolder;
     padding:5px;
     color: brown;
